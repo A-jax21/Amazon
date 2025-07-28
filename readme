@@ -1,0 +1,7 @@
+report:
+
+
+mochawesom report required config
+npx cypress run 
+report folder: html
+copy the html path and paste it in a browser
