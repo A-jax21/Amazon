@@ -1,4 +1,4 @@
-// Scenario 1 new update
+// Scenario 1 new update for TrainMMT
 
 describe('Hooks concept', ()=>{
 
